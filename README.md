@@ -131,12 +131,11 @@ Próximos passos
 3. Desenvolver um MVP com escopo reduzido.
 4. Testar a utilidade e a qualidade das recomendações.
 5. Acompanhar adesão, retenção, uso das ferramentas e possíveis impactos nos resultados.
-Acesse o projeto
+
 <div align="center"><a href="https://mariavalentinabau41.github.io/creator-compass">
   <img src="https://img.shields.io/badge/ABRIR%20PROT%C3%93TIPO-9BEA00?style=for-the-badge&labelColor=172B4D" alt="Abrir protótipo" />
 </a><a href="https://github.com/mariavalentinabau41/creator-compass">
   <img src="https://img.shields.io/badge/VER%20REPOSIT%C3%93RIO-172B4D?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório" />
 </a>
-Creator Compass
-Encontre oportunidades, planeje melhor e evolua com inteligência.
+
 </div>
