@@ -34,7 +34,7 @@ Análise de métricas	Dificuldade para interpretar indicadores e identificar o q
 Conversão	Desafio de transformar visualizações em cliques, pedidos e vendas.
 
 
-Pesquisa exploratória
+Pesquisa exploratória:
 A proposta foi orientada por três entrevistas exploratórias: duas com criadoras do TikTok Shop e uma afiliada da Shopee.
 Perfil	Principais dificuldades relatadas
 TikTok Shop	Manter a frequência de publicações e encontrar produtos que atendam à demanda do público.
